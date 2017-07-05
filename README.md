@@ -142,7 +142,7 @@ If the Photon is in listening mode (blinking dark blue), configuration can also 
 
 Listening mode is the default when you plug in a Photon the first time. You can also get into listening mode by holding down SETUP for about 3 seconds until the status LED blinks blue.
 
-The commands other then the last two Wi-Fi related commands are also available on the Electron.
+The commands other than the last two Wi-Fi related commands are also available on the Electron.
 
 ### Changing operating modes with USB Serial
 
